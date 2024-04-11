@@ -1,0 +1,10 @@
+## EN: Edit According To The Emoji System You Are Using.
+## TR: Kullandığınız Emoji Sisteminize Göre Düzenleyiniz.
+
+EMOJI_CHARACTER_STATS_ADD	|Eemoji/key_ctrl|e + |Eemoji/key_lclick|e - x10 Stat
+
+
+## EN: If You Are Not Using The Emoji System, Add It Like This.
+## TR: Emoji Sistemi Kullanmıyorsanız Bu Şekilde Ekleyin.
+
+EMOJI_CHARACTER_STATS_ADD	Ctrl + Left Click - x10 Stat
